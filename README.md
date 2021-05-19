@@ -5,4 +5,4 @@
 ## Steps for installation
 1. Clone the project.
 2. Run ```npm install```.
-3. To start server run ```npm server```. This uses nodemon.
+3. To start server run ```npm run server```. This uses nodemon.
